@@ -1,0 +1,3 @@
+[submodule "sem1/degrees_radians"]
+	path = sem1/degrees_radians
+	url = https://github.com/bermo0d/degrees_radians.git
